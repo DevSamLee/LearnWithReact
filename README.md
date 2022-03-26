@@ -1,4 +1,5 @@
 # LearnWithReact
-> This repo contains tutorials of React Docs for beginners.
+> This repo contains tutorials of React for beginners.
 >
-> Link : https://reactjs.org/docs/getting-started.html
+> Link : https://nomadcoders.co/react-for-beginners
+> Youtube Link: https://youtu.be/C2YdwJCyEYQ
